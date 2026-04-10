@@ -120,7 +120,7 @@ footer {
         flex-direction: column;
         align-items: center;
     }
-
+/* i have made a changes  */
     .collection-grid {
         grid-template-columns: 1fr;
     }
